@@ -1,0 +1,6 @@
+{
+  "name": "DiaPredict AI - Healthcare Predictive Analytics",
+  "description": "Predictive analytics platform for diabetes risk prediction using historical clinical markers and lifestyle demographics, featuring model evaluation and a GitHub-ready Python repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
